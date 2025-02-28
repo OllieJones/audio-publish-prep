@@ -1,0 +1,16 @@
+{
+  "name": "audio-publish-prep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "music-metadata": "^10.7.0"
+  }
+}
